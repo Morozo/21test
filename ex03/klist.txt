@@ -1,5 +1,0 @@
-Credentials cache: API:7045
-        Principal: cconroy@21-SCHOOL.RU
-
-  Issued                Expires               Principal
-Aug 20 16:17:31 2018  Aug 21 16:17:31 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
